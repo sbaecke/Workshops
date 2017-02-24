@@ -2,7 +2,7 @@
 Login-AzureRmAccount
 
 $locName = "West Europe" #Azure datacenter location
-$rgName = "testrg1" #resource group name
+$rgName = "testrg2" #resource group name
 
 #View resource groups
 Get-AzureRmResourceGroup
